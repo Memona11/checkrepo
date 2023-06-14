@@ -4,7 +4,7 @@ import java.util.*;
 public class Apply {
 
 	public static void main(String[] args) {
-		Scanner ref = new Scanner (System.in );
+       Scanner ref = new Scanner (System.in );
 	System.out.print("Enter First number :");
 	int a = ref.nextInt();
 	System.out.print("Enter Second number :");
